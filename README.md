@@ -7,7 +7,6 @@ Esse é um projeto de uma API feita com AdonisJS desenvolvido no curso do [Mathe
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Rotas](#rotas)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
 ## Instalação
